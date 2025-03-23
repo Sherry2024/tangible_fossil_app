@@ -52,6 +52,15 @@ export default class Tangible {
             307: "X",
             309: "Y",
             313: "Z",
+
+            323: "Skull",
+            327: "Neck",
+            331: "Body",
+            333: "Upper_Left_Flipper",
+            339: "Upper_Right_Flipper",
+            341: "Lower_Left_Flipper",
+            345: "Lower_Right_Flipper",
+            355: "Tail",
         };
         this.topcodeHeight = 40;
         this.topcodeWidth = 100;
