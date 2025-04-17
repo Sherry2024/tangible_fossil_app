@@ -1,4 +1,15 @@
 /*jshint esversion: 8 */
+
+/**
+ * main.js
+ * 
+ * NOTE: This file contains methods and code that were originally developed by [King's Digital Lab/tangible-11ty].
+ * Repository: https://github.com/armbennett/tangible-11ty.git
+ * 
+ * Modifications:
+ * - I have not added/modified it. 
+ */
+
 import Tangible from "./tangible.js";
 
 function getUrlParameter(sParam) {
