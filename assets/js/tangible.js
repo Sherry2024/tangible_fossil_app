@@ -11,6 +11,7 @@
  *   - constructor()
  *   - checkFossilPresence()
  *   - setupTangible() (added new functionality for sound sets)
+ *   - added Challenges buttons in several methods.
  * 
  * All other methods are part of the original codebase and are not my own work.
  */
