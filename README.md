@@ -15,9 +15,8 @@ This application is based on the web application by King's Digital Lab on the TI
 
 ### Guide
 1. Select "Fossil" from the sound track
-2. Click on start/stop
-3. Listen to Challenge 1, 2 audio 
-4. Face the demo to the camera
-5. Click on Run Challenge 1, Challenge 2 sequentially. 
-The first challenge asks user to check the prescence of all fossil pieces, and the second asks the user to arrange them correctly to form a complete fossil model. 
+2. Listen to Challenge 1, 2 audio 
+3. Click on start/stop - to open the camera 
+4. Print out and face the demo page to the camera - to start scanning 
+5. Click on Run Challenge 1 or Run Challenge 2. - The first challenge asks user to check the prescence of all fossil pieces, and the second asks the user to arrange them correctly to form a complete fossil model. 
   
